@@ -1,5 +1,8 @@
 # llm-gateway-control-plane
 
+[![CI](https://github.com/WaiperOK/llm-gateway-control-plane/actions/workflows/ci.yml/badge.svg)](https://github.com/WaiperOK/llm-gateway-control-plane/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/WaiperOK/llm-gateway-control-plane)](https://github.com/WaiperOK/llm-gateway-control-plane/releases)
+
 Enterprise-style LLM gateway with safety policy enforcement, tenant quotas, cost control, audit logging, and Prometheus observability.
 
 ## Why this project
