@@ -1,0 +1,16 @@
+# Binaries
+bin/
+*.exe
+*.out
+
+# Build/test caches
+.coverprofile
+coverage.out
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Runtime
+.env
