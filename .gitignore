@@ -1,16 +1,27 @@
-# Binaries
+# generic
+.DS_Store
+.idea/
+.vscode/
+
+# python
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# go
 bin/
+gateway
 *.exe
 *.out
-
-# Build/test caches
 .coverprofile
 coverage.out
 
-# IDE
-.vscode/
-.idea/
-.DS_Store
+# rust
+target/
 
-# Runtime
+# runtime
 .env
